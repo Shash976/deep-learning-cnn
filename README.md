@@ -1,2 +1,2 @@
 # deep-learning-ccn
-Experimental CNNs. Still learning this stuff
+Experiments with CNNs... picking this up from DeepLearning.AI's Deep Learning Specialization on Coursera.
